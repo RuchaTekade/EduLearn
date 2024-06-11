@@ -39,7 +39,7 @@ const Testimonials = () => {
                 <img src={user_1} alt="" />
                 <div>
                   <h3>Emily Williams</h3>
-                  <span>Edusity, USA</span>
+                  <span>Edulearn, USA</span>
                 </div>
               </div>
               <p>
@@ -56,7 +56,7 @@ const Testimonials = () => {
                 <img src={user_2} alt="" />
                 <div>
                   <h3>William Jackson</h3>
-                  <span>Edusity, USA</span>
+                  <span>Edulearn, USA</span>
                 </div>
               </div>
               <p>
@@ -73,7 +73,7 @@ const Testimonials = () => {
                 <img src={user_3} alt="" />
                 <div>
                   <h3>Amelia Oliver</h3>
-                  <span>Edusity, USA</span>
+                  <span>Edulearn, USA</span>
                 </div>
               </div>
               <p>
