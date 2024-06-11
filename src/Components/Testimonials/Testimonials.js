@@ -90,7 +90,7 @@ const Testimonials = () => {
                 <img src={user_4} alt="" />
                 <div>
                   <h3>Stephan George</h3>
-                  <span>Edusity, USA</span>
+                  <span>Edulearn, USA</span>
                 </div>
               </div>
               <p>
