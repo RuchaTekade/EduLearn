@@ -71,7 +71,7 @@ git commit -m 'Add some feature'
 ```
 4] Open a pull request.
 
-Thank you for checking out my portfolio website repository. Happy coding!!🌟🙆‍♀️
+Thank you for checking out my Edulearn website repository. Happy coding!!🌟🙆‍♀️
 
 
 
